@@ -2,7 +2,7 @@
 
 My name is AmAr, and this is the "About Me" stuff...
 
-I am a self-taught student of programming and currently working as a **Data Engineer** for TATA CONSULTANCY SERVICES, India. I spend much of my time building the skillset and trying to learn as much as i can. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than me. You can find me on [LinkedIn](https://www.linkedin.com/in/amareswar/).
+I am a self-taught student of programming and currently working as a **Data Engineer** for TATA CONSULTANCY SERVICES, India. I spend much of my time building the skillset and trying to learn as much as i can. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than me. You can find me on 👀 [LinkedIn](https://www.linkedin.com/in/amareswar/).
 
 
 
