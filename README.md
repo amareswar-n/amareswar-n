@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, folks! 👋
+
+My name is AmAr, and this is the "About Me" stuff...
+      I am a self-taught student of programming and spend much of my time on building the skillset to learn as much as I can. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. I am currently working 🔭 as a **DATA ENGINEER** with TCS. You can find me 📫 on [LinkedIn](https://www.linkedin.com/in/amareswar/).
+
+
 
 <!--
 **amareswar-n/amareswar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
