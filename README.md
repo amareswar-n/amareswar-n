@@ -19,8 +19,10 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
 -->
 
 <h2> Cheer's, <br />
- [✨AmAr✨](``` amareswar.n@gmail.com ```)
+ ✨AmAr✨
 </h2>
+
+``` amareswar.n@gmail.com ```
 
 [<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/amareswar/)
 
