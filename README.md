@@ -7,7 +7,7 @@ My name is AmAr. I'm life-long learner and a self-taught software developer, cur
 
 | Repository    | Description |
 | ------------- | ------------- |
-| [Toolkit](https://github.com/amareswar-n/ToolKit)  | contains code snippets & templates to simplify or demonstate usage of ceratin features   |
+| [Toolkit](https://github.com/amareswar-n/ToolKit)  | contains code snippets & templates to simplify or demonstate usage of certain features   |
 | [My projects](https://github.com/amareswar-n/My-Projects) | Contains some personal projects that i have worked on over free time  |
 | [Data University](https://github.com/amareswar-n/Data-University) | Contains Data ecosystem related stuff  |
 
