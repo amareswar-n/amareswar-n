@@ -25,7 +25,7 @@ A good overview of my work is hosted here in github as public repositories
  - DSA
 
 #### 📫 How to reach me:
-  - [<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/amareswar/) 👯 
+  [<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/amareswar/)
 
 
 
