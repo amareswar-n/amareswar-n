@@ -1,4 +1,4 @@
-### Hello, mate!
+### Hello, mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
 You've stumbled upon my GitHub profile, Nice!! Thank you. 
 
 My name is AmAr, and this is my "About Me" stuff...
