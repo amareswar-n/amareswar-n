@@ -3,9 +3,9 @@ You've stumbled upon my GitHub profile, Nice!! Thank you.
 
 My name is AmAr, and this is my "About Me" stuff...
 
-I'm a self-taught software developer, and currently a **Data Engineer** for TATA CONSULTANCY SERVICES. I am a firm believer in **"Lifelong Learning"** and spend much of my time [skilling, reskilling & upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) the Technical skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than me. 
+I'm a self-taught software developer, and currently a **Data Engineer** for TATA CONSULTANCY SERVICES. I am a firm believer in **"Lifelong Learning"** and spend much of the time skilling, reskilling & [upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my Technical skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than me. 
 
-A good overview of my work is hosted here in github as public repositories
+An overview of my work is hosted here in github as public repositories:
 | Repository    | Description |
 | ------------- | ------------- |
 | [Toolkit](https://github.com/amareswar-n/ToolKit)  | contains code snippets & templates to simplify or demonstate usage of ceratin features   |
@@ -31,6 +31,12 @@ A good overview of my work is hosted here in github as public repositories
 
 ### Cheer's 
 **✨AmAr✨**
+
+
+
+#### 📊 Github stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" />
+
 
 
 
