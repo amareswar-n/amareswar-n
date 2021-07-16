@@ -52,7 +52,8 @@ I am a firm believer in “⚡ **You'll never know everything about anything, es
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" />
    
 </details>
-  
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amareswar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/amareswar?trk=profile-badge">Amareswar Nannapaneni</a></div>
+              
  
  <!--
 **amareswar-n/amareswar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
