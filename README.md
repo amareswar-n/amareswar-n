@@ -1,21 +1,25 @@
-## Hello, mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
+## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
 
-My name is AmAr, am a self-taught software developer and currently working as a **Data Engineer**. I believe in Lifelong learning and spend most of my free time working towards building the skills. I learn new skills by doing and publish some of my work in the hosted Repos. 
+My name is AmAr, am a self-taught software developer and currently working as a **Data Engineer**. I believe in Lifelong learning and spend most of my free time working towards building the skills. I learn by doing and has published some of my work in the hosted repos. 
 
 ```diff
 “ Anyone who keeps learning stays young and who stops learning turns old, whether at twenty or eighty.  ”
                                                                                                 ― Henry Ford
 ```                                                                                             
 <h2> Cheer's, <br />
-    AmAr ✨
+    AmAr ✨</br>
+    <p><a href="https://www.linkedin.com/in/amareswar/">
+<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30">
+</a></p>
 </h2>
 
 
 
-<h3> Hosted repositories: </h3>
 
-| Repository    | Description |
+<h3>Summary of repositories hosted </h3>
+
+| Repo.         | Summary       |
 | ------------- | ------------- |
 | [Toolkit](https://github.com/amareswar-n/ToolKit)  | contains code snippets & templates to simplify or demonstate usage of certain features   |
 | [My projects](https://github.com/amareswar-n/My-Projects) | Contains some personal projects that i have worked on over free time  |
@@ -27,13 +31,6 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
  #### 🌱 I’m currently learning <br /> 
  SCALA Node.js DSA
 -->
-
-
-
-``` amareswar.n@gmail.com ```
-
-[<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/amareswar/)
-
 <details>
   <summary>more About me!!</summary>
  
@@ -60,9 +57,7 @@ I am a firm believer in “⚡ **You'll never know everything about anything, es
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" />
    
 </details>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amareswar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/amareswar?trk=profile-badge">Amareswar Nannapaneni</a></div>
-              
- 
+
  <!--
 **amareswar-n/amareswar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
