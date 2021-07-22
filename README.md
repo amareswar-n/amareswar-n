@@ -1,7 +1,17 @@
 ## Hello, mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
 
-My name is AmAr. I'm life-long learner and a self-taught software developer, currently working for TATA CONSULTANCY SERVICES as a **Data Engineer**. Hope you like my projects and find them engaging in some form.
+My name is AmAr, am a self-taught software developer and currently working as a **Data Engineer**. I believe in Lifelong learning and spend most of my free time working towards building the skills. I learn new skills by doing and publish some of my work in the hosted Repos. 
+
+```diff
+“ Anyone who keeps learning stays young and who stops learning turns old, whether at twenty or eighty.  ”
+                                                                                                ― Henry Ford
+```                                                                                             
+<h2> Cheer's, <br />
+    AmAr ✨
+</h2>
+
+
 
 <h3> Hosted repositories: </h3>
 
@@ -18,9 +28,7 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
  SCALA Node.js DSA
 -->
 
-<h2> Cheer's, <br />
- ✨AmAr✨
-</h2>
+
 
 ``` amareswar.n@gmail.com ```
 
