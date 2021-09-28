@@ -7,8 +7,8 @@ My name is AmAr, am a self-taught software developer and currently working as a 
 “ Anyone who keeps learning stays young and who stops learning turns old, whether at twenty or eighty.  ”
                                                                                                 ― Henry Ford
 ```                                                                                             
-<h2> Cheer's, <br />
-    AmAr ✨</br>
+ Cheer's, <br />
+ <h2> AmAr ✨</br>
     <p><a href="https://www.linkedin.com/in/amareswar/">
 <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30">
 </a></p>
