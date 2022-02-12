@@ -3,10 +3,7 @@ Nice to see you stumble upon my GitHub profile, Thank you.
 
 My name is AmAr, am a self-taught software developer and currently working as a **Data Engineer**. I believe in Lifelong learning and spend most of my free time working towards building the skills. I learn by doing and has published some of my work in the hosted repos. 
 
-```diff
-“ Anyone who keeps learning stays young and who stops learning turns old, whether at twenty or eighty.  ”
-                                                                                                ― Henry Ford
-```                                                                                             
+                                                                                           
  Cheer's, <br />
  <h2> AmAr ✨</br>
     <p><a href="https://www.linkedin.com/in/amareswar/">
