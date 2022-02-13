@@ -1,4 +1,6 @@
-<img src="https://github.com/amareswar-n/amareswar-n/blob/main/Beige%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).gif">
+<img src="https://github.com/amareswar-n/amareswar-n/blob/main/1627819035749.gif">
+
+[//] 'https://github.com/amareswar-n/amareswar-n/blob/main/Beige%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).gif">
 
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
