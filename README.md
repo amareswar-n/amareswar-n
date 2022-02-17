@@ -1,9 +1,17 @@
-<img src="https://github.com/amareswar-n/amareswar-n/blob/main/Beige%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).gif">
+<!---
+   IF YOU INTEND TO COPY THE CODE, PLEASE SAY THANK YOU TO AMARESWAR.N@GMAIL.COM
+ 
+-->
 
-## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="33px">
+
+<p float="left">
+  <img width="300px" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
+</p>
+
+## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
 
-My name is AmAr, am a self-taught software developer and currently working as a **Data Engineer**. I believe in Lifelong learning and spend most of my free time working towards building the skills. I learn by doing and has published some of my work in the hosted repos. 
+My name is AmAr, and am a computer nerd. urrently working in **Data Engineering**. I spend most of my free time working towards building the skills and a firm believer in Lifelong learning. I learn by doing and has published some of my work in the hosted repos. 
 
                                                                                            
  Cheer's, <br />
@@ -14,7 +22,7 @@ My name is AmAr, am a self-taught software developer and currently working as a 
 </h2>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/amareswar-n/count.svg)
 
 <h3>Summary of repositories hosted </h3>
 
@@ -47,14 +55,11 @@ I am a firm believer in “⚡ **You'll never know everything about anything, es
 
 
 </details>
-
 <details>
  <br />
  <br />
  <summary>Github stats</summary>
- 
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" />
-   
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" /> 
 </details>
 
  <!--
