@@ -9,7 +9,7 @@
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
 
-My name is AmAr, and am a computer nerd. urrently working in **Data Engineering**. I spend most of my free time working towards building the skills and a firm believer in Lifelong learning. I learn by doing and has published some of my work in the hosted repos. 
+My name is AmAr, and am a computer nerd. Currently working as a **Data Engineer** and spend most of my free time in building skills. I build much of skills by doing and the hosted repos has some of them published. 
 
                                                                                            
  Cheer's, <br />
