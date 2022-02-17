@@ -31,7 +31,7 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
  SCALA Node.js DSA
 -->
 <details>
-  <summary>more About me!!</summary>
+  <summary>more (...) </summary>
  
 ## About Me 
  
@@ -51,7 +51,7 @@ I am a firm believer in “⚡ **You'll never know everything about anything, es
 <details>
  <br />
  <br />
- <summary>Click for github stats</summary>
+ <summary>Github stats</summary>
  
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" />
    
