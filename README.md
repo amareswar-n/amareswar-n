@@ -12,9 +12,9 @@ Nice to see you stumble upon my GitHub profile, Thank you.
 My name is AmAr, term myself as a computer 𝕊๏𝕝𝕦𝕥𝕚𝕠𝕟𝕚𝕤𝕥. I'm currently working as a **Data Engineer** and spend most of my free time in learning. I build much of skills by doing and published some of the them in hosted repos. 
 
                                                                                            
- Cheer's, <br />
+ Cheer's, <br/>
  <h2> AmAr ✨</br>
-    <p><a href="https://www.linkedin.com/in/amareswar/">
+    <p><a href="https://www.linkedin.com/in/amareswar-n/">
 <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30">
 </a></p>
 </h2>
