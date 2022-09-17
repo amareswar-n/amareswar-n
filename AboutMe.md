@@ -14,10 +14,10 @@ hopping on a flight to anywhere, and teaching people like you how to live an abu
 
 Seriously, I deeply value every relationship I’ve been lucky enough to build from this blog.
 
-My strengths lie in helping readers to become a computer literate. So if you’re here for the same, don’t hesitate to reach out.
+My strengths lie in helping readers to become [<em>DATA LITERATE</em>](https://github.com/amareswar-n/amareswar-n/edit/main/AboutMe.md "Data is only as useful as your ability to understand it correctly, and a team that understands data makes better data-driven decisions."). So if you’re here for the same, don’t hesitate to reach out.
 
 Shoot me an email at amareswar.n@gmail.com if you have questions, I’d love to hear from you.
 
-If you’re looking for something to read, start with my content and dive deep today.
+If you’re looking for something to read, start in MY-UNIVERSITY and dive deep today.
 
-READ MY BEST CONTENT
+READ MY OTHER BEST CONTENT
