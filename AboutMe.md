@@ -18,6 +18,4 @@ My strengths lie in helping readers to become [<em>DATA LITERATE</em>](https://g
 
 Shoot me an email at amareswar.n@gmail.com if you have questions, I’d love to hear from you.
 
-If you’re looking for something to read, start in MY-UNIVERSITY and dive deep today.
-
-READ MY OTHER BEST CONTENT
+If you’re looking for something to read, start in [MyUNIVERSITY](https://github.com/amareswar-n/MyUniversity) and dive deep today.
