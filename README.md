@@ -57,7 +57,7 @@ I am a firm believer in “⚡ **You'll never know everything about anything, es
  <br />
  <br />
  <summary>Github stats</summary>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n" /> 
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n"/> 
 </details>
 
  <!--
