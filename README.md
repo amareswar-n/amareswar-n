@@ -9,7 +9,7 @@
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Nice to see you stumble upon my GitHub profile, Thank you. 
 
-My name is AmAr, and I am a computer solutionist who is currently employed as a **Data Engineer**. I spend the majority of my free time learning and developing skills by doing, and I've published some of them in hosted repositories. 
+My name is AmAr and I spend majority of free time learning or enhancing skills by doing, and I've published some of them in my hosted repositories. 
 
                                                                                            
  Cheer's, <br/>
@@ -34,7 +34,7 @@ My name is AmAr, and I am a computer solutionist who is currently employed as a 
 Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
 <br /> 
  #### 🌱 I’m currently learning <br /> 
- SCALA Node.js DSA
+ Node.js DSA
 -->
 <details>
   <summary>more (...) </summary>
@@ -49,7 +49,7 @@ Computer has been my first love, and I can guarantee will accompany me to heaven
 
 It is a work of art, indeed. <br /> 
  
-I am a firm believer in “⚡ **You'll never know everything about anything, especially something you love.** ⚡” and spend much of the time skilling, reskilling & [upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than me. 
+I am a firm believer in “⚡ **You'll never know everything about anything, especially something you love.** ⚡” and spend much of the time skilling, reskilling & [upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. 
 
 
 </details>
