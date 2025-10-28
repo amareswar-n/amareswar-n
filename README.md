@@ -44,12 +44,13 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
  
 <p> From the moment I watched my sci-fi movie, I was hooked-not just on the stories, but on the machines. Computers, robots, and intelligent spaceships (what we now call "AI") weren't just props to me; they were possibilities. Those cinematic moments planted the seeds of lifelong fascination with technology.<p/>
 <p>  My first hands-on experience came in school with the Logo programming language. I still remember to this day the thrill of drawing a triangle by controlling a tiny cursor with code. It was simple, but it felt like magic. That moment sparked something deep inside me-a sense of control,creativity and curiosity that's never left.</p>
-<p> During my first year of university, I wrote my first "Hello World!!" program in C. It felt intuitive and exciting, my passion for coding gre stronger. Even though I pursued a degree in Electrical Engineering, my heart was always with computers. I was fascinated by how a single piece of silicon could be repurposed endlessly through software. That thirst for understanding-the one that started with my first computer-has only grown stronger over time.<br />
+<p> During my first year of university, I wrote my first "Hello World!!" program in C. It felt intuitive and exciting, my passion for coding grew stronger. Even though I pursued a degree in Electrical Engineering, my heart was always with computers. I was fascinated by how a single piece of silicon could be repurposed endlessly through software. That thirst for understanding-the one that started with my first computer-has only grown stronger over time.<br />
 What I love most about computing is it's boundless nature. Sure, there's theory to learn, but almost everything can be tested and explored with just a computer and a bit of curiosity. There's no ceiling to what you can build, break or reinvent. And unlike many things in life, a computer never gives up-it just waits for the next command.</p>
 
-COMPUTER has been my first love to this day, powering on my laptop feels like opening a portal to endless possibilities. I often find myself marveling at the millions of processes happening inside that sleep chassis, all in real time. It's not just engineering - it's ART. <br />
+COMPUTER has been my first love to this day, powering on my laptop feels like opening a portal to endless possibilities. I often find myself marveling at the millions of processes happening inside that sleek chassis, all in real time. It's not just engineering - it's ART. <br />
    
-   “⚡ **You'll never know everything about anything, especially something you love.** ⚡” 
+   “⚡ **You'll never know everything about anything, especially something you love.** ⚡” <br />
+   
 This belief drives me to continuously learn  [skilling, reskilling & upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. Technology isn't just a career for me it's a calling. And if I have my way, it'll be with me to the very end weather that in heaven or hell!
 
 
