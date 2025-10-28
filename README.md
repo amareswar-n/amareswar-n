@@ -40,17 +40,17 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
 <details>
   <summary>more (...) </summary>
  
-## About Me 
+## My Lifelong Love Affair with Technology
  
-<p>I always had an interest in technology from a very early age, because of my passion for watching sci-fi movies and TV series; stories that were based on or soaked in computers, robots, spaceships with a central intelligence units or newely termed as “AI”. I was first introduced to computer in school with LOGO programming language and was fascinated to draw a TRIANGLE and obsessed with the ability to control the cursor through programming/coding. The feeling of finishing the code of a certain application, and watching the computer “live” in the way you pre-determined it is unbelievable. <p/> 
- <p>
- It was my first year at graduation, when I saw the first "hello world!" C program, well it looked quite obvious to me and I started loving coding. I did my bachelor's in Electrical Engineering but my love towards computers has never faded. It has always fascinated me how I can reuse a piece of silicon in so many ways. I've had a huge quench of knowledge when I saw the first computer, and that quench has been heavily increased over time. There's nothing boring about it, lot of theory to start obviously, but almost everything can be tested with a simple computer by hand. There's no limit what can be done with a computer, and above all, it never quits. <p /> 
- 
-Computer has been my first love, and I can guarantee will accompany me to heaven (or hell, whatever!), and it still amazes me everyday when I switch on my laptop, thinking about the things that are happening almost instantaneously inside the chasis. <br /> 
+<p> From the moment I watched my sci-fi movie, I was hooked-not just on the stories, but on the machines. Computers, robots, and intelligent spaceships (what we now call "AI") weren't just props to me; they were possibilities. Those cinematic moments planted the seeds of lifelong fascination with technology.<p/>
+<p>  My first hands-on experience came in school with the Logo programming language. I still remember to this day the thrill of drawing a triangle by controlling a tiny cursor with code. It was simple, but it felt like magic. That moment sparked something deep inside me-a sense of control,creativity and curiosity that's never left.</p>
+<p> During my first year of university, I wrote my first "Hello World!!" program in C. It felt intuitive and exciting, my passion for coding gre stronger. Even though I pursued a degree in Electrical Engineering, my heart was always with computers. I was fascinated by how a single piece of silicon could be repurposed endlessly through software. That thirst for understanding-the one that started with my first computer-has only grown stronger over time.<br />
+What I love most about computing is it's boundless nature. Sure, there's theory to learn, but almost everything can be tested and explored with just a computer and a bit of curiosity. There's no ceiling to what you can build, break or reinvent. And unlike many things in life, a computer never gives up-it just waits for the next command.</p>
 
-It is a work of art, indeed. <br /> 
- 
-I am a firm believer in “⚡ **You'll never know everything about anything, especially something you love.** ⚡” and spend much of the time skilling, reskilling & [upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. 
+COMPUTER has been my first love to this day, powering on my laptop feels like opening a portal to endless possibilities. I often find myself marveling at the millions of processes happening inside that sleep chassis, all in real time. It's not just engineering - it's ART. <br />
+   
+   “⚡ **You'll never know everything about anything, especially something you love.** ⚡” 
+This belief drives me to continuously learn  [skilling, reskilling & upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. Technology isn't just a career for me it's a calling. And if I have my way, it'll be with me to the very end weather that in heaven or hell!
 
 
 </details>
