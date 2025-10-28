@@ -9,7 +9,7 @@
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Thanks for stopping by my GitHub profile, glad you stumble upon it. 
 
-I'm AmAr and I spend most of my free time learning and bulding through hands on experimentation. Many of my projects and explorations are published in the repositories here, reflecting my journey of continuous skill development.
+I'm AmAr and I spend most of my free time learning and bulding through hands on experimentation. Many of my projects and explorations are published in the repositories here, reflecting my journey of continuous skill development.<br/>
 Driven by a passion for innovation and collaboration, I'm always open to exchanging ideas and working together. Feel free to explore, fork or reach out if you'd like to grow together!
 
                                                                                            
