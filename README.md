@@ -7,12 +7,11 @@
 </p>
 
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
-Thanks for stopping by my GitHub profile, glad you stumble upon it. 
+Thank you for visiting my GitHub profile.
 
-I'm AmAr and I spend most of my free time learning and bulding through hands on experimentation. Many of my projects and explorations are published in the repositories here, reflecting my journey of continuous skill development.<br/>
-Driven by a passion for innovation and collaboration, I'm always open to exchanging ideas and working together. Feel free to explore, fork or reach out if you'd like to grow together!
-
-                                                                                           
+I’m AmAr, and I dedicate much of my free time to learning and building through hands-on experimentation. The repositories here showcase many of my projects and technical explorations, reflecting my ongoing commitment to developing new skills and refining existing ones.<br/>
+Driven by a passion for innovation and collaboration, I enjoy exchanging ideas and working with others in the community. Feel free to explore the projects, fork any repositories that interest you, or reach out if you’d like to learn and grow together.<br/>
+                                                                                         
  Cheer's, <br/>
  <h2> AmAr ✨</br>
     <p><a href="https://www.linkedin.com/in/amareswar-n/">
