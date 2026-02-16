@@ -18,10 +18,6 @@ Driven by a passion for innovation and collaboration, I enjoy exchanging ideas a
 <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30">
 </a></p>
 </h2>
-
-
-![Visitor Count](https://profile-counter.glitch.me/amareswar-n/count.svg)
-
 <h3>Summary of repositories hosted </h3>
 
 | Repo.         | Summary       |
