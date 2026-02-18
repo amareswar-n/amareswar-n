@@ -3,7 +3,7 @@
  
 -->
 <p float="right">
-  <img width="100%" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
+  <img width="420" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
 </p>
 
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
