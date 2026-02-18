@@ -9,7 +9,7 @@
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Thank you for visiting my GitHub profile.
 
-I’m AmAr, a lifelong learner who believes the best way to understand technology is to build with it. Rather than just reading about concepts, I prefer to experiment, prototype, and test ideas in real environments. The repositories here reflect that philosophy — each project represents hands-on exploration across data systems, automation, and embedded technologies, where learning happens through implementation, iteration, and refinement.
+I’m AmAr (he/him), a lifelong learner who believes the best way to understand technology is to build with it. Rather than just reading about concepts, I prefer to experiment, prototype, and test ideas in real environments. The repositories here reflect that philosophy — each project represents hands-on exploration across data systems, automation, and embedded technologies, where learning happens through implementation, iteration, and refinement.
 
 I’m driven by curiosity and continuous improvement. I enjoy breaking down complex problems, experimenting with solutions, and improving them through practical feedback. I value collaboration, idea exchange, and building systems that are not only functional but reusable and scalable.
 
@@ -26,15 +26,15 @@ Cheers,</br>
 
 | Repository | Description |
 |------------|------------|
-| [**Tinker-Lab**](https://github.com/amareswar-n/Tinker-Lab) | Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051. |
-| [**Data University**](https://github.com/amareswar-n/Data-University) | Data ecosystem experiments, pipelines, analytics learning artifacts. |
-| [**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
+| 🧠[**Tinker-Lab**](https://github.com/amareswar-n/Tinker-Lab) | Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051. |
+| 🎓[**Data University**](https://github.com/amareswar-n/Data-University) | Data ecosystem experiments, pipelines, analytics learning artifacts. |
+|  🛠[**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
 
 <sub>Repositories are continuously evolving — feel free to explore and contribute.</sub>
 
 ### 🤝 Let’s Connect
 
-If any of these projects interest you, or you’d like to collaborate and explore new ideas together, I’d be glad to connect.
+If you're working on data systems, automation, or embedded engineering challenges, or you’d like to collaborate and explore new ideas together, I’d be glad to connect.
 
 <!-- #### 🔧 I’m currently working on <br />  
 Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
@@ -64,7 +64,7 @@ This belief drives me to continuously learn  [skilling, reskilling & upskilling]
  <br />
  <br />
  <summary>Github stats</summary>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true alt="amareswar-n"/> 
+  <p align="left">![GitHub stats](https://github-readme-stats.vercel.app/api?username=amareswar-n&show_icons=true&theme=radical/> 
 </details>
 
 ---
