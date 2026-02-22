@@ -16,16 +16,18 @@ Thanks for stopping by!
 </p>
 
 
-I’m AmAr (he/him), a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
+I’m **AmAr**, a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
 
-Cheers,</br>
- <h2> AmAr ✨
- <p><a href="https://www.linkedin.com/in/amareswar-n/">
-<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30">
-</a></p>
-</h2>
+Cheers,
+### AmAr<br> <sub> _(he/him/his)_ </sub>
+<p><a href="https://www.linkedin.com/in/amareswar-n/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30"></a></p>
+<h2></h2>
+</br</br>
 
-<h4>I believe in building things that *work in the real world* — not just experiments on paper.</h4>
+### 🤝 Let’s Connect
+
+If you're working on data systems, automation, or embedded engineering challenges, or you’d like to collaborate and explore new ideas together, I’d be glad to connect.
+</br></br>
 
 | Repository | Description |
 |------------|------------|
@@ -34,10 +36,6 @@ Cheers,</br>
 |  🛠[**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
 
 <sub>Repositories are continuously evolving — feel free to explore and contribute.</sub>
-
-### 🤝 Let’s Connect
-
-If you're working on data systems, automation, or embedded engineering challenges, or you’d like to collaborate and explore new ideas together, I’d be glad to connect.
 
 <!-- #### 🔧 I’m currently working on <br />  
 Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
@@ -71,6 +69,7 @@ This belief drives me to continuously learn  [skilling, reskilling & upskilling]
 </details>
 
 ---
+
 ## 📈 GitHub Activity
 I’m here to *build and improve continuously* — reflected in my activity and contribution chart below. I treat my GitHub as an evolving lab, not a static resume.
  <!--
