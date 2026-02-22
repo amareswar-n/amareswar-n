@@ -16,7 +16,7 @@ Thanks for stopping by!
 </p>
 
 
-I’m **AmAr**, a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
+I’m **AmAr** (Uh-ma-r) , a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
 
 Cheers,
 ### AmAr<br> <sub> _(he/him/his)_ </sub>
