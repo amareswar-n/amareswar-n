@@ -7,8 +7,8 @@ Thanks for stopping by!
 <!-- RIGHT FLOATING ILLUSTRATION -->
 <p float="right">
   <img 
-    width="320" 
-    height="160px" 
+    width="400px" 
+    height="250px" 
     style="float: right;" 
     align="right" 
     src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"
