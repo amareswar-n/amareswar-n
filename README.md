@@ -1,41 +1,13 @@
 <!---
    IF YOU INTEND TO COPY THE CODE, PLEASE SAY THANK YOU TO AMARESWAR.N@GMAIL.COM
- 
 -->
+
 <p float="right">
-  <img width="420" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
+  <img width="520" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com
-?font=Fira+Code
-&size=22
-&duration=2500
-&pause=800
-&color=00BFFF
-&center=true
-&vCenter=true
-&width=700
-&height=70
-&lines=
-Hello,+Mate!;        /* English */
-नमस्ते,+मित्र!;       /* Hindi */
-హలో,+మిత్రమా!;       /* Telugu */
-Hola,+Amigo!;        /* Spanish */
-Bonjour,+Mon+ami!;   /* French */
-Olá,+Amigo!;         /* Portuguese */
-مرحبا,+صديقي!;       /* Arabic */
-你好,+朋友!;          /* Mandarin Chinese */
-হ্যালো,+বন্ধু!;       /* Bengali */
-Привет,+друг!;       /* Russian */
-Halo,+Teman!;        /* Indonesian */
-مرحباً,+يا+صديقي!;   /* Urdu */
-こんにちは,+友よ!;    /* Japanese */
-안녕,+친구!;          /* Korean */
-Hallo,+Freund!;      /* German */
-Ciao,+Amico!         /* Italian */
-)]()
+<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="50px" height="50px">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+Mate!;नमस्ते,+मित्र!;హలో,+మిత్రమా!;Hola,+Amigo!;Bonjour,+Mon+ami!;Olá,+Amigo!;مرحبا,+صديقي!;你好,+朋友!;হ্যালো,+বন্ধু!;Привет,+друг!;Halo,+Teman!;مرحباً,+يا+صديقي!;こんにちは,+友よ!;안녕,+친구!;Hallo,+Freund!;Ciao,+Amico!)]() 
 
-## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Thank you for visiting my GitHub profile.
 
 I’m AmAr (he/him), a lifelong learner who believes the best way to understand technology is to build with it. Rather than just reading about concepts, I prefer to experiment, prototype, and test ideas in real environments. The repositories here reflect that philosophy — each project represents hands-on exploration across data systems, automation, and embedded technologies, where learning happens through implementation, iteration, and refinement.
