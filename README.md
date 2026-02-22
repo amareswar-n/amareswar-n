@@ -3,16 +3,12 @@
 -->
 <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+colleague!+(USA);G'day,+mate!+(Australia);నమస్తే+అండి!+(Telugu);ನಮಸ್ಕಾರ+ಗೆಳೆಯರೇ!+(Kannada);வணக்கம்+நண்பா!+(Tamil);नमस्ते+मित्र!+(Hindi);Alright,+mate?+(UK);Hallo,+Kumpel!+(Germany);你好+朋友!+(China);Hey,+bud!+(Canada);Hoi,+maat!+(Netherlands);Cześć,+kolego!+(Poland);नमस्कार+मित्रा!+(Marathi);Hiya,+pal!+(Ireland);Salut,+mon+ami!+(France);שלום+חבר!+(Israel);Olá,+amigo!+(Brazil);こんにちは+友よ!+(Japan);안녕+친구!+(S.Korea);Grüezi,+mitenand!+(Switzerland);Hello,+friend!+(Singapore);Salut,+prietene!+(Romania);Привіт,+друже!+(Ukraine);¡Hola,+amigo!+(Spain);Hej,+kompis!+(Sweden);Merhaba+dostum!+(Turkey);Xin+chào+bạn!+(Vietnam);Halo,+sobat!+(Indonesia);أهلا+يا+صاحبي!+(UAE);Kia+ora,+mate!+(New+Zealand);Hiya,+pal!+(Scotland);Chur,+bro!+(New+Zealand);How's+it+going,+eh?+(Canada);Wotcha,+mate!+(UK/London);G'day,+cobber!+(Australia);Morning,+mate!+(UK);Howdy,+partner!+(Texas);Hey,+mate!+(Australia);Ey+up,+duck!+(North))]()
 
-
-
-
-
-Thank you for visiting my GitHub profile.
+Thanks for stopping by!
 <!-- RIGHT FLOATING ILLUSTRATION -->
 <p float="right">
   <img 
-    width="520" 
-    height="320px" 
+    width="320" 
+    height="160px" 
     style="float: right;" 
     align="right" 
     src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"
@@ -20,11 +16,7 @@ Thank you for visiting my GitHub profile.
 </p>
 
 
-I’m AmAr (he/him), a lifelong learner who believes the best way to understand technology is to build with it. Rather than just reading about concepts, I prefer to experiment, prototype, and test ideas in real environments. The repositories here reflect that philosophy — each project represents hands-on exploration across data systems, automation, and embedded technologies, where learning happens through implementation, iteration, and refinement.
-
-I’m driven by curiosity and continuous improvement. I enjoy breaking down complex problems, experimenting with solutions, and improving them through practical feedback. I value collaboration, idea exchange, and building systems that are not only functional but reusable and scalable.
-
-Whether it’s designing a Raspberry Pi sensor stack or constructing a data pipeline, I approach engineering as an ongoing journey of learning, building, and evolving.
+I’m AmAr (he/him), a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
 
 Cheers,</br>
  <h2> AmAr ✨
@@ -58,8 +50,8 @@ Python  R SQL JAVA C VB JavaScript AWS GCP EXCEL UNIX POWERSHELL BATCH
  
 ## My Lifelong Love Affair with Technology
  
-<p> From the moment I watched my sci-fi movie, I was hooked-not just on the stories, but on the machines. Computers, robots, and intelligent spaceships (what we now call "AI") weren't just props to me; they were possibilities. Those cinematic moments planted the seeds of lifelong fascination with technology.<p/>
-<p>  My first hands-on experience came in school with the Logo programming language. I still remember to this day the thrill of drawing a triangle by controlling a tiny cursor with code. It was simple, but it felt like magic. That moment sparked something deep inside me-a sense of control,creativity and curiosity that's never left.</p>
+<p> My love for technology started early — fueled by sci‑fi movies filled with computers, robots, and intelligent systems. Those cinematic moments planted the seeds of lifelong fascination with technology.<p/>
+<p> My first programming experience was with the LOGO language in school, drawing a triangle and feeling amazed that I could control a cursor with code.</p>
 <p> During my first year of university, I wrote my first "Hello World!!" program in C. It felt intuitive and exciting, my passion for coding grew stronger. Even though I pursued a degree in Electrical Engineering, my heart was always with computers. I was fascinated by how a single piece of silicon could be repurposed endlessly through software. That thirst for understanding-the one that started with my first computer-has only grown stronger over time.<br />
 What I love most about computing is it's boundless nature. Sure, there's theory to learn, but almost everything can be tested and explored with just a computer and a bit of curiosity. There's no ceiling to what you can build, break or reinvent. And unlike many things in life, a computer never gives up-it just waits for the next command.</p>
 
