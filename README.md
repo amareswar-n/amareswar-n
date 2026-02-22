@@ -6,6 +6,35 @@
   <img width="420" height="320px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif"/>
 </p>
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=22
+&duration=2500
+&pause=800
+&color=00BFFF
+&center=true
+&vCenter=true
+&width=700
+&height=70
+&lines=
+Hello,+Mate!;        /* English */
+नमस्ते,+मित्र!;       /* Hindi */
+హలో,+మిత్రమా!;       /* Telugu */
+Hola,+Amigo!;        /* Spanish */
+Bonjour,+Mon+ami!;   /* French */
+Olá,+Amigo!;         /* Portuguese */
+مرحبا,+صديقي!;       /* Arabic */
+你好,+朋友!;          /* Mandarin Chinese */
+হ্যালো,+বন্ধু!;       /* Bengali */
+Привет,+друг!;       /* Russian */
+Halo,+Teman!;        /* Indonesian */
+مرحباً,+يا+صديقي!;   /* Urdu */
+こんにちは,+友よ!;    /* Japanese */
+안녕,+친구!;          /* Korean */
+Hallo,+Freund!;      /* German */
+Ciao,+Amico!         /* Italian */
+)]()
+
 ## Hello, Mate! <img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="32px" height="20px">
 Thank you for visiting my GitHub profile.
 
