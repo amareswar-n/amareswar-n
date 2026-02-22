@@ -1,7 +1,8 @@
 <!---
    IF YOU INTEND TO COPY THE CODE, PLEASE SAY THANK YOU TO AMARESWAR.N@GMAIL.COM
 -->
-<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+Mate!;नमस्ते,+मित्र!;హలో,+మిత్రమా!;Hola,+Amigo!;Bonjour,+Mon+ami!;Olá,+Amigo!;مرحبا,+صديقي!;你好,+朋友!;হ্যালো,+বন্ধু!;Привет,+друг!;Halo,+Teman!;مرحباً,+يا+صديقي!;こんにちは,+友よ!;안녕,+친구!;Hallo,+Freund!;Ciao,+Amico!)]()
+<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+Mate!+(english);नमस्ते,+मित्र!+(hindi);హలో,+మిత్రమా!+(telugu);Hola,+Amigo!+(spanish);Bonjour,+Mon+ami!+(french);Olá,+Amigo!+(portuguese);مرحبا,+صديقي!+(arabic);你好,+朋友!+(chinese);হ্যালো,+বন্ধু!+(bengali);Привет,+друг!+(russian);Halo,+Teman!+(indonesian);مرحباً,+يا+صديقي!+(urdu);こんにちは,+友よ!+(japanese);안녕,+친구!+(korean);Hallo,+Freund!+(german);Ciao,+Amico!+(italian))]()
+
 
 
 
