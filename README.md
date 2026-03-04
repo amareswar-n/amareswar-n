@@ -1,8 +1,49 @@
 <!---
    IF YOU INTEND TO COPY THE CODE, PLEASE SAY THANK YOU TO AMARESWAR.N@GMAIL.COM
 -->
-<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+colleague!+(USA);G'day,+mate!+(Australia);నమస్తే+అండి!+(Telugu);ನಮಸ್ಕಾರ+ಗೆಳೆಯರೇ!+(Kannada);வணக்கம்+நண்பா!+(Tamil);नमस्ते+मित्र!+(Hindi);Alright,+mate?+(UK);Hallo,+Kumpel!+(Germany);你好+朋友!+(China);Hey,+bud!+(Canada);Hoi,+maat!+(Netherlands);Cześć,+kolego!+(Poland);नमस्कार+मित्रा!+(Marathi);Hiya,+pal!+(Ireland);Salut,+mon+ami!+(France);שלום+חבר!+(Israel);Olá,+amigo!+(Brazil);こんにちは+友よ!+(Japan);안녕+친구!+(S.Korea);Grüezi,+mitenand!+(Switzerland);Hello,+friend!+(Singapore);Salut,+prietene!+(Romania);Привіт,+друже!+(Ukraine);¡Hola,+amigo!+(Spain);Hej,+kompis!+(Sweden);Merhaba+dostum!+(Turkey);Xin+chào+bạn!+(Vietnam);Halo,+sobat!+(Indonesia);أهلا+يا+صاحبي!+(UAE);Kia+ora,+mate!+(New+Zealand);Hiya,+pal!+(Scotland);Chur,+bro!+(New+Zealand);How's+it+going,+eh?+(Canada);Wotcha,+mate!+(UK/London);G'day,+cobber!+(Australia);Morning,+mate!+(UK);Howdy,+partner!+(Texas);Hey,+mate!+(Australia);Ey+up,+duck!+(North))]()
+<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=
+Hello,+colleague!+(English-USA);
+G'day,+mate!+(English-Australia);
+నమస్తే+అండి!+(Telugu-India);
+ನಮಸ್ಕಾರ+ಗೆಳೆಯರೇ!+(Kannada-India);
+வணக்கம்+நண்பா!+(Tamil-India);
+नमस्ते+मित्र!+(Hindi-India);
+Alright,+mate?+(English-UK);
+Hallo,+Kumpel!+(German-Germany);
+你好+朋友!+(Chinese-China);
+Hey,+bud!+(English-Canada);
+Hoi,+maat!+(Dutch-Netherlands);
+Cześć,+kolego!+(Polish-Poland);
+नमस्कार+मित्रा!+(Marathi-India);
+Hiya,+pal!+(English-Ireland);
+Salut,+mon+ami!+(French-France);
+שלום+חבר!+(Hebrew-Israel);
+Olá,+amigo!+(Portuguese-Brazil);
+こんにちは+友よ!+(Japanese-Japan);
+안녕+친구!+(Korean-South+Korea);
+Grüezi,+mitenand!+(Swiss+German-Switzerland);
+Hello,+friend!+(English-Singapore);
+Salut,+prietene!+(Romanian-Romania);
+Привіт,+друже!+(Ukrainian-Ukraine);
+¡Hola,+amigo!+(Spanish-Spain);
+Hej,+kompis!+(Swedish-Sweden);
+Merhaba+dostum!+(Turkish-Turkey);
+Xin+chào+bạn!+(Vietnamese-Vietnam);
+Halo,+sobat!+(Indonesian-Indonesia);
+أهلا+يا+صاحبي!+(Arabic-UAE);
+Kia+ora,+mate!+(Māori-New+Zealand);
+Hiya,+pal!+(English-Scotland);
+Chur,+bro!+(Māori/New+Zealand+Slang-New+Zealand);
+How's+it+going,+eh?+(English-Canada);
+Wotcha,+mate!+(English-UK/London);
+G'day,+cobber!+(English-Australia);
+Morning,+mate!+(English-UK);
+Howdy,+partner!+(English-USA/Texas);
+Hey,+mate!+(English-Australia);
+Ey+up,+duck!+(English-UK/North)
+)]()
 Thanks for stopping by!
 <!-- RIGHT FLOATING ILLUSTRATION -->
 <p float="right">
