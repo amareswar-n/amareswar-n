@@ -69,10 +69,10 @@ This belief drives me to continuously learn  [skilling, reskilling & upskilling]
 </details>
 
 ---
-
+ <!--
 ## 📈 GitHub Activity
 I’m here to *build and improve continuously* — reflected in my activity and contribution chart below. I treat my GitHub as an evolving lab, not a static resume.
- <!--
+
 **amareswar-n/amareswar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
