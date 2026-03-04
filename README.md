@@ -23,7 +23,7 @@ If you find something here that sparks your interest or proves useful, consider 
 🤝 Let’s Connect — if you'd like to collaborate, share ideas, or explore new possibilities together, I’d be glad to connect.
 
 <h4>Cheers,<br>
-AmAr <sub> (he/him/his) </sub>
+AmAr <sub> (he/him/his) </sub><br>
 <p><a href="https://www.linkedin.com/in/amareswar-n/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30"></a></p>
 </h4>
 </br</br>
