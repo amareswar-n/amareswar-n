@@ -1,7 +1,7 @@
 <!---
    IF YOU INTEND TO COPY THE CODE, PLEASE SAY THANK YOU TO AMARESWAR.N@GMAIL.COM
 -->
-<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="115px" height="115px" style="margin-right: 20px;"> &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=false&vCenter=true&height=70&lines=Hello,+colleague!+(USA);G'day,+mate!+(Australia);నమస్తే+అండి!+(Telugu);ನಮಸ್ಕಾರ+ಗೆಳೆಯರೇ!+(Kannada);வணக்கம்+நண்பா!+(Tamil);नमस्ते+मित्र!+(Hindi);Alright,+mate?+(UK);Hallo,+Kumpel!+(Germany);你好+朋友!+(China);Hey,+bud!+(Canada);Hoi,+maat!+(Netherlands);Cześć,+kolego!+(Poland);नमस्कार+मित्रा!+(Marathi);Hiya,+pal!+(Ireland);Salut,+mon+ami!+(France);שלום+חבר!+(Israel);Olá,+amigo!+(Brazil);こんにちは+友よ!+(Japan);안녕+친구!+(S.Korea);Grüezi,+mitenand!+(Switzerland);Hello,+friend!+(Singapore);Salut,+prietene!+(Romania);Привіт,+друже!+(Ukraine);¡Hola,+amigo!+(Spain);Hej,+kompis!+(Sweden);Merhaba+dostum!+(Turkey);Xin+chào+bạn!+(Vietnam);Halo,+sobat!+(Indonesia);أهلا+يا+صاحبي!+(UAE);Kia+ora,+mate!+(New+Zealand);Hiya,+pal!+(Scotland);Chur,+bro!+(New+Zealand);How's+it+going,+eh?+(Canada);Wotcha,+mate!+(UK/London);G'day,+cobber!+(Australia);Morning,+mate!+(UK);Howdy,+partner!+(Texas);Hey,+mate!+(Australia);Ey+up,+duck!+(North))]()
+<img src="https://github.com/amareswar-n/amareswar-n/raw/main/down-pointing.gif" width="50" height="50" style="margin-right:15px; vertical-align:middle;">&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?size=20&duration=1000&pause=500&color=000000&center=false&vCenter=true&random=true&width=400&height=30&lines=Hello,+colleague!+English(USA);G'day,+mate!+English(Australia);నమస్తే+అండి!+Telugu(India);ನಮಸ್ಕಾರ+ಗೆಳೆಯರೇ!+Kannada(India);வணக்கம்+நண்பா!+Tamil(India);नमस्ते+मित्र!+Hindi(India);Alright,+mate?+English(UK);Hallo,+Kumpel!+German(Germany);你好+朋友!+Chinese(China);Hey,+bud!+English(Canada);Hoi,+maat!+Dutch(Netherlands);Cześć,+kolego!+Polish(Poland);नमस्कार+मित्रा!+Marathi(India);Hiya,+pal!+English(Ireland);Salut,+mon+ami!+French(France);שלום+חבר!+Hebrew(Israel);Olá,+amigo!+Portuguese(Brazil);こんにちは+友よ!+Japanese(Japan);안녕+친구!+Korean(South+Korea);Grüezi,+mitenand!+Swiss+German(Switzerland);Hello,+friend!+English(Singapore);Salut,+prietene!+Romanian(Romania);Привіт,+друже!+Ukrainian(Ukraine);¡Hola,+amigo!+Spanish(Spain);Hej,+kompis!+Swedish(Sweden);Merhaba+dostum!+Turkish(Turkey);Xin+chào+bạn!+Vietnamese(Vietnam);Halo,+sobat!+Indonesian(Indonesia);أهلا+يا+صاحبي!+Arabic(UAE);Kia+ora,+mate!+Māori(New+Zealand);Hiya,+pal!+English(Scotland);Chur,+bro!+Māori(New+Zealand);How's+it+going,+eh?+English(Canada);Wotcha,+mate!+English(UK/London);G'day,+cobber!+English(Australia);Morning,+mate!+English(UK);Howdy,+partner!+English(USA/Texas);Hey,+mate!+English(Australia);Ey+up,+duck!+English(UK/North))]()
 
 Thanks for stopping by!
 <!-- RIGHT FLOATING ILLUSTRATION -->
@@ -16,24 +16,24 @@ Thanks for stopping by!
 </p>
 
 
-I’m **AmAr** (Uh-ma-r) , a lifelong learner and I spend most of my free time learning, experimenting, and building things that excite me. This space is where I publish the projects, tools, and ideas that come out of that curiosity.
+I’m **AmAr** (Uh-ma-r) , — a curious mind and lifelong learner who enjoys experimenting, building, and understanding how things work. Much of my free time goes into learning new concepts and turning ideas into small projects.
 
-Cheers,
-### AmAr<br> <sub> _(he/him/his)_ </sub>
+If you find something here that sparks your interest or proves useful, consider ⭐ starring the repository or following along. It’s always motivating to see others appreciate the work.
+
+🤝 Let’s Connect — if you'd like to collaborate, share ideas, or explore new possibilities together, I’d be glad to connect.
+
+<h4>Cheers,<br>
+AmAr <sub> (he/him/his) </sub>
 <p><a href="https://www.linkedin.com/in/amareswar-n/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30"></a></p>
-<h2></h2>
+</h4>
 </br</br>
 
-### 🤝 Let’s Connect
-
-If you're working on data systems, automation, or embedded engineering challenges, or you’d like to collaborate and explore new ideas together, I’d be glad to connect.
-</br></br>
-
-| Repository | Description |
+## What I'm Working On
+| 📂 Repository | Description |
 |------------|------------|
-| 🧠[**Tinker-Lab**](https://github.com/amareswar-n/Tinker-Lab) | Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051. |
-| 🎓[**Data University**](https://github.com/amareswar-n/Data-University) | Data ecosystem experiments, pipelines, analytics learning artifacts. |
-|  🛠[**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
+| 🧠 [**Tinker-Lab**](https://github.com/amareswar-n/Tinker-Lab) | Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051. |
+| 🎓 [**Data University**](https://github.com/amareswar-n/Data-University) | Data ecosystem experiments, pipelines, analytics learning artifacts. |
+|  🛠 [**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
 
 <sub>Repositories are continuously evolving — feel free to explore and contribute.</sub>
 
