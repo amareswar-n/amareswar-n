@@ -20,7 +20,7 @@ I’m **AmAr** (Uh-ma-r) , — a curious mind and lifelong learner who enjoys ex
 
 If you find something here that sparks your interest or proves useful, consider ⭐ starring the repository or following along. It’s always motivating to see others appreciate the work.
 
-🤝 Let’s Connect — if you'd like to collaborate, share ideas, or explore new possibilities together, I’d be glad to connect.
+🤝 Let’s Connect — I’m always glad to collaborate, share ideas, and explore what we can create together.
 
 <h4>Cheers,<br>
 AmAr <sub> (he/him/his) </sub><br>
