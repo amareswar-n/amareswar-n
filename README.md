@@ -6,14 +6,15 @@
 Thanks for stopping by!
 <p float="right"> <img width="400px" height="600px" style="float: right;" align="right" src="https://github.com/amareswar-n/amareswar-n/raw/main/Working.gif" /> 
 
-   I’m **AmAr** [(Aaa-ma-r)](https://github.com/amareswar-n/resources/ttsMP3.com_Onyx_amy.mp3)   , — a curious mind and lifelong learner who enjoys experimenting, building, and understanding how things work. Much of my free time goes into learning new concepts and turning ideas into small projects.
+   I’m **AmAr** [(Aaa-ma-r)](https://github.com/amareswar-n/amareswar-n/raw/main/resources/ttsMP3.com_Onyx_amy.mp3)   , — a curious mind and lifelong learner who enjoys experimenting, building, and understanding how things work. Much of my free time goes into learning new concepts and turning ideas into small projects.
 
 If you find something here that sparks your interest or proves useful, consider ⭐ starring the repository or following along. It’s always motivating to see others appreciate the work.
 
 🤝 Let’s Connect — I’m always glad to collaborate, share ideas, and explore what we can create together.
 
 Cheers,
-<h5>AmAr <sub> (he/him/his) </sub><br>
+<h5>AmAr <br>
+<sub> (he/him/his) </sub><br>
 </h5>
  <!-- 
    <p><a href="https://www.linkedin.com/in/amareswar-n/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30"></a></p>
