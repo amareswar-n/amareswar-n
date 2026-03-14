@@ -19,18 +19,55 @@ Cheers,
  <!-- 
    <p><a href="https://www.linkedin.com/in/amareswar-n/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" alt="LinkedIn" width="100" height="30"></a></p>
 --> 
-</br
 </p>
 
 ## What I'm Working On
-| Repository | 📖 Description |
-|------------|------------|
-| 🎓 [**Data University**](https://github.com/amareswar-n/Data-University) | Data ecosystem experiments, pipelines, analytics learning artifacts. |
-|  🛠 [**Toolkit**](https://github.com/amareswar-n/ToolKit) | Developer tool templates and smaller code snippets to improve productivity. |
-| 🧠 [**Tinker-Lab**](https://github.com/amareswar-n/Tinker-Lab) | Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051. |
-| | |
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Repository</th>
+      <th width="70%">📖 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎓 <b><a href="https://github.com/amareswar-n/Dataversity">Dataversity</a></b></td>
+      <td>Data ecosystem experiments, pipelines, analytics learning artifacts.</td>
+    </tr>
+    <tr>
+      <td>🛠️ <b><a href="https://github.com/amareswar-n/ToolKit">Toolkit</a></b></td>
+      <td>Developer tool templates and smaller code snippets to improve productivity.</td>
+    </tr>
+    <tr>
+      <td>🧠 <b><a href="https://github.com/amareswar-n/Tinker-Lab">Tinker-Lab</a></b></td>
+      <td>Embedded systems, automation builds, and practical IoT projects using Arduino, Pi, and 8051.</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+       <sub> * Repositories are continuously evolving 🌱 — feel free to explore and contribute.</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p><sub>Repositories are continuously evolving🌱 — feel free to explore and contribute.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
 
 <details>
   <summary></summary>
@@ -47,9 +84,10 @@ COMPUTER has been my first love to this day, powering on my laptop feels like op
    
 This belief drives me to continuously learn  [skilling, reskilling & upskilling](https://bangaloremirror.indiatimes.com/bangalore/others/upskill-or-be-left-behind/articleshow/72705220.cms) my skills. There have been many good people who have assited me in learning this craft, and I try to pay that forward by helping others who may be newer than I. Technology isn't just a career for me it's a calling. And if I have my way, it'll be with me to the very end weather that in heaven or hell!
 </details>
-
  
  <!--
+ ### I'm looking to collaborate on...
+ 
 <details>
  <br />
  <br />
